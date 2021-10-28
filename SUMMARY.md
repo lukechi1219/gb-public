@@ -62,6 +62,8 @@
   * [analytics](angular/angular.io/analytics.md)
   * [code-of-conduct](angular/angular.io/code-of-conduct.md)
   * [contribute](angular/angular.io/contribute.md)
+* [Angular.tw](angular/angular.tw.md)
+* [Angular.cn](angular/angular.cn.md)
 
 ## Vue Library <a href="vue" id="vue"></a>
 
