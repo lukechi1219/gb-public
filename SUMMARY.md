@@ -57,6 +57,11 @@
   * [resources](angular/angular.io/resources.md)
   * [events](angular/angular.io/events.md)
   * [blog](angular/angular.io/blog.md)
+  * [about](angular/angular.io/about.md)
+  * [presskit](angular/angular.io/presskit.md)
+  * [analytics](angular/angular.io/analytics.md)
+  * [code-of-conduct](angular/angular.io/code-of-conduct.md)
+  * [contribute](angular/angular.io/contribute.md)
 
 ## Vue Library <a href="vue" id="vue"></a>
 
