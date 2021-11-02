@@ -49,6 +49,8 @@
   * [start](angular/angular.io/start.md)
   * [tutorial](angular/angular.io/tutorial.md)
   * [guide](angular/angular.io/guide/README.md)
+    * [i18n-overview](angular/angular.io/guide/i18n-overview.md)
+    * [i18n transloco](angular/angular.io/guide/i18n-transloco.md)
     * [forms-overview](angular/angular.io/guide/forms-overview.md)
     * [animations](angular/angular.io/guide/animations.md)
     * [glossary](angular/angular.io/guide/glossary.md)
