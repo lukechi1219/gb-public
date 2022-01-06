@@ -35,9 +35,22 @@ npx nx g @nguniversal/express-engine:ng-add
 
 ## SSR (prerender)
 
-
 ## Transloco
 
+```
+@Injectable({ providedIn: 'root' })
+export class TranslocoServerHttpLoader implements TranslocoLoader {
+  isBrowser: boolean;
 
+  constructor(@Inject(PLATFORM_ID) platformId: Object, private http: HttpClient) {
+    this.isBrowser = isPlatformBrowser(platformId);
+  }
 
+  getTranslation(lang: string): Observable<Translation> {
+    console.log('getTranslation');
+    console.log(`this.isBrowser: ${ this.isBrowser }`);
 
+    return of(JSON.parse(readFileSync(`./src/assets/i18n/${ lang }.json`, 'utf8')));
+  }
+}
+```
