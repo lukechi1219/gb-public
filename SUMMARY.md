@@ -44,6 +44,7 @@
 * [入門](angular/intro.md)
 * [Ivy: Incremental DOM](angular/ivy-incremental-dom.md)
 * [Advanced](angular/advanced.md)
+* [Angular Nx SSR Transloco](angular/angular-nx-ssr-transloco.md)
 * [Angular.io](angular/angular.io/README.md)
   * [features](angular/angular.io/features.md)
   * [start](angular/angular.io/start.md)
